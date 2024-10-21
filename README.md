@@ -11,17 +11,13 @@ Um aplicativo de música moderno e responsivo, **AweSong** permite aos usuários
 
 ## Capturas de Tela
 
-![Tela Inicial](screenshots/start-desktop.png)
-*Tela inicial do AweSong no Desktop*
+| Desktop                                             | Mobile                                             |
+|----------------------------------------------------|---------------------------------------------------|
+| ![Tela Inicial](screenshots/start-desktop.png)    | ![Tela Inicial Mobile](screenshots/start-mobile.png)  |
+| *Tela inicial do AweSong no Desktop*               | *Tela inicial do AweSong no Mobile*               |
+| ![Tela de navegação pelos álbuns - Desktop](screenshots/browse-desktop.png) | ![Tela de navegação pelos álbuns - Mobile](screenshots/browse-mobile.png) |
+| *Tela de navegação pelos álbuns - Desktop*         | *Tela de navegação pelos álbuns - Mobile*         |
 
-![Tela Inicial Mobile](screenshots/start-mobile.png)
-*Tela inicial do AweSong no Mobile*
-
-![Tela de navegação pelos álbuns - Desktop](screenshots/browse-desktop.png)
-*Tela de navegação pelos álbuns - Desktop*
-
-![Tela de navegação pelos álbuns - Mobile](screenshots/browse-desktop.png)
-*Tela de navegação pelos álbuns - Mobile*
 
 ## Tecnologias Utilizadas
 
