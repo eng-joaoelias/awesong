@@ -9,6 +9,17 @@ Um aplicativo de música moderno e responsivo, **AweSong** permite aos usuários
 - Estilos personalizados com `tailwindcss`
 - Testes automatizados com `@testing-library/react`
 
+## Capturas de Tela
+
+![Tela Inicial](screenshots/start-desktop.png)
+*Tela inicial do AweSong no desktop*
+
+![Tela Inicial Mobile](screenshots/start-mobile.png)
+*Tela inicial do AweSong no Mobile*
+
+![Tela de navegação pelos álbuns - Desktop](link-para-screenshot2.png)
+*Tela de navegação pelos álbuns - Desktop*
+
 ## Tecnologias Utilizadas
 
 - **React**: Biblioteca JavaScript para a construção de interfaces de usuário.
