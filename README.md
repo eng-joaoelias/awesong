@@ -19,6 +19,8 @@ Um aplicativo de música moderno e responsivo, **AweSong** permite aos usuários
 | *Tela de navegação pelos álbuns - Desktop*         | *Tela de navegação pelos álbuns - Mobile*         |
 | ![Tela de músicas mais escutadas - Desktop](screenshots/more-listened-songs-desktop.png) | ![Tela de músicas mais escutadas - Mobile](screenshots/more-listened-songs-mobile.png) |
 | *Tela de músicas mais escutadas - Desktop*         | *Tela de músicas mais escutadas - Mobile*         |
+| ![Tela de artistas sugeridos - Desktop](screenshots/artists-desktop.png) | ![Tela de artistas sugeridos - Mobile](screenshots/artists-mobile.png) |
+| *Tela de artistas sugeridos - Desktop*         | *Tela de artistas sugeridos - Mobile*         |
 
 
 ## Tecnologias Utilizadas
